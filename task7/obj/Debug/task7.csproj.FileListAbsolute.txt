@@ -1,0 +1,13 @@
+D:\уроки\сишарп\task7\task7\bin\Debug\task7.exe.config
+D:\уроки\сишарп\task7\task7\bin\Debug\task7.exe
+D:\уроки\сишарп\task7\task7\bin\Debug\task7.pdb
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.Properties.Resources.resources
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.csproj.GenerateResource.cache
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.csproj.CoreCompileInputs.cache
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.exe
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.pdb
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.Form2.resources
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.Form3.resources
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.Form4.resources
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.VacancyNotifier.resources
+D:\уроки\сишарп\task7\task7\obj\Debug\task7.csprojAssemblyReference.cache
